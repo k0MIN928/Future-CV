@@ -118,7 +118,7 @@ GitHub: [https://github.com/k0MIN928](https://github.com/k0MIN928)
 
 ---
 
-### 4. 도시 데이터 기반 수요 예측 모델 개발
+### 4. 도시 데이터 기반 머신러닝 수요 예측 모델 개발
 
 프로젝트 설명
 

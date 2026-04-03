@@ -142,7 +142,7 @@ GitHub: [https://github.com/k0MIN928](https://github.com/k0MIN928)
 
 - ADsP (데이터분석 준전문가)
 - SQLD (SQL 개발자)
-- 빅데이터분석기
+- 빅데이터분석기사
 ---
 
 ## 수상 (Awards)

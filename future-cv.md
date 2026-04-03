@@ -106,9 +106,6 @@ GitHub: [https://github.com/k0MIN928](https://github.com/k0MIN928)
 
 ### 3. 예산 기반 레시피 추천 시스템
 
-GitHub  
-https://github.com/k0MIN928
-
 프로젝트 설명
 
 - FastText 임베딩을 활용한 재료 유사도 계산
